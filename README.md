@@ -32,8 +32,8 @@ This profile reflects my progress — projects, experiments, and lessons learned
 ---
 
 ## 💬 Connect
-mail : ehsanshirin70@gmail.com , ehsanshirin@yahoo.com
-whatsapp : wa.me/+989192905949
+- mail : ehsanshirin70@gmail.com , ehsanshirin@yahoo.com
+- whatsapp : wa.me/+989192905949
 
 ---
 > “The best way to learn is to build.”
